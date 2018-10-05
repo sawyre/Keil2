@@ -1,0 +1,12 @@
+--cpu Cortex-M3
+".\obj\main.o"
+".\obj\system_stm32f10x.o"
+".\obj\startup_stm32f103xb.o"
+".\obj\misc.o"
+".\obj\stm32f10x_gpio.o"
+".\obj\stm32f10x_rcc.o"
+".\obj\stm32f10x_tim.o"
+--strict --scatter ".\obj\dummy.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\lst\dummy.map" -o .\obj\dummy.axf

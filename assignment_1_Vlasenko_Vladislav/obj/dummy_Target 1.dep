@@ -1,0 +1,17 @@
+Dependencies for Project 'dummy', Target 'Target 1': (DO NOT MODIFY !)
+F (.\src\main\main.c)(0x5AA7990D)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O3 --apcs=interwork -I .\src\cmsis -I .\src -I .\src\mcu_support_package\inc-IC:\keil\Keil_v5\ARM\RV31\INC-IC:\keil\Keil_v5\ARM\CMSIS\Include-IC:\keil\Keil_v5\ARM\Inc\ST\STM32F10x-D__UVISION_VERSION="523" -DSTM32F103xB -DUSE_FULL_ASSERT -DSTM32F10X_MD -DHSE_VALUE="8000000"-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (.\src\mcu_support_package/inc/stm32f10x.h)(0x5A9B8C89)
+I (.\src\cmsis\core_cm3.h)(0x5A9B8C88)
+I (C:\keil\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64D08)
+I (.\src\cmsis\cmsis_compiler.h)(0x5A9B8C88)
+I (.\src\cmsis\cmsis_armcc.h)(0x5A9B8C88)
+I (.\src\mcu_support_package/inc/system_stm32f10x.h)(0x5A9B8C89)
+I (C:\keil\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x57F64D08)
+F (.\src\mcu_support_package\arm\startup_stm32f103xb.s)(0x5A9B8C89)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\keil\Keil_v5\ARM\RV31\INC-IC:\keil\Keil_v5\ARM\CMSIS\Include-IC:\keil\Keil_v5\ARM\Inc\ST\STM32F10x--pd "__UVISION_VERSION SETA 523"--list .\lst\startup_stm32f103xb.lst --xref -o .\obj\startup_stm32f103xb.o --depend .\obj\startup_stm32f103xb.d)
+F (.\src\mcu_support_package\system_stm32f10x.c)(0x5A9B8C89)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O3 --apcs=interwork -I .\src\cmsis -I .\src -I .\src\mcu_support_package\inc-IC:\keil\Keil_v5\ARM\RV31\INC-IC:\keil\Keil_v5\ARM\CMSIS\Include-IC:\keil\Keil_v5\ARM\Inc\ST\STM32F10x-D__UVISION_VERSION="523" -DSTM32F103xB -DUSE_FULL_ASSERT -DSTM32F10X_MD -DHSE_VALUE="8000000"-o .\obj\system_stm32f10x.o --omf_browse .\obj\system_stm32f10x.crf --depend .\obj\system_stm32f10x.d)
+I (.\src\mcu_support_package\inc\stm32f10x.h)(0x5A9B8C89)
+I (.\src\cmsis\core_cm3.h)(0x5A9B8C88)
+I (C:\keil\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64D08)
+I (.\src\cmsis\cmsis_compiler.h)(0x5A9B8C88)
+I (.\src\cmsis\cmsis_armcc.h)(0x5A9B8C88)
+I (.\src\mcu_support_package\inc\system_stm32f10x.h)(0x5A9B8C89)
